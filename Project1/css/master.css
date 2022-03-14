@@ -1,0 +1,41 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: goldenrod;
+    background-color:maroon;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+header {
+    font-size: 500%;
+    font-weight: 1000;
+    font-style: oblique;
+    text-shadow: 5px 5px firebrick
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+
+ul {
+    font-style: italic;
+    font-size: large;
+}
+
+figure {
+    border-style: dashed;
+    background-color: firebrick;
+}
+
+p {
+    font-size: large;
+}
+
+img {
+    width: 450px;
+    float: right;
+    border: 5px solid;
+}
